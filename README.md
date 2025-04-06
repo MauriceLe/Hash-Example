@@ -19,14 +19,8 @@ Dies ist ein einfaches Python-Programm zur Verwaltung von Studentendaten, das Ha
    ```bash
    git clone https://github.com/MauriceLe/Hash-Example.git
    ```
-
-2. Wechsle in das Verzeichnis:
-
-   ```bash
-   cd hash-example
-   ```
-
-3. Stelle sicher, dass du Python 3.x installiert hast.
+   
+2. Stelle sicher, dass du Python 3.x installiert hast.
 
 ## Benutzung
 
