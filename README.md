@@ -1,5 +1,5 @@
 
-# Hash-Example Python Repository
+# Hash-Example
 
 Dies ist ein einfaches Python-Programm zur Verwaltung von Studentendaten, das Hashing und quadratische Sondierung verwendet, um die Datensätze zu speichern und zu verwalten. Das Programm ermöglicht das Hinzufügen, Bearbeiten, Löschen und Anzeigen von Studenten sowie das Speichern und Laden der Daten aus einer Datei.
 
